@@ -1,0 +1,7 @@
+*.user
+
+# AppImages
+*.AppImage
+
+# build results
+*build*/

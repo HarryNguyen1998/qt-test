@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ASandbox
+Comment=Qt app to test robotframework
+Exec=ASandbox
+Icon=asandbox
+Categories=Development;
