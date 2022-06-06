@@ -16,9 +16,10 @@ public:
     ~MainWindow();
 
 private slots:
-    void showText();
+    void toggleText();
 
 private:
     Ui::MainWindow *ui;
+    bool isTextHidden;
 };
 #endif // MAINWINDOW_H
